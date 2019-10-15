@@ -1,0 +1,34 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "test node js sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/app/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulmzn/NodeSamples.git"
+  },
+  "author": "rahul.ct.kumar@accenture.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulmzn/NodeSamples/issues"
+  },
+  "homepage": "https://github.com/rahulmzn/NodeSamples#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bower": "^1.8.8",
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "grunt": "^1.0.4",
+    "method-override": "^3.0.0",
+    "mocha": "^6.2.1",
+    "mongoose": "^5.7.4",
+    "morgan": "^1.9.1",
+    "should": "^13.2.3",
+    "sinon": "^7.5.0",
+    "sinon-mongoose": "^2.3.0"
+  }
+}
