@@ -1,3 +1,0 @@
-"scripts": {
-    "start": "babel-node src/index.js"
-}
