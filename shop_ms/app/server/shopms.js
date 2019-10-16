@@ -1,4 +1,4 @@
-const express = require('express');
+import express from 'express';
 var application = express();
 
 var listener = application.listen(8083, () =>
