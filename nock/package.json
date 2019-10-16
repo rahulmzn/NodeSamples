@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rahul.ct.kumar@accenture.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nock": "^11.4.0"
+  }
 }
